@@ -1,0 +1,27 @@
+.rodape__icones {
+    margin-top: 0.5em;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.rodape__icones a {
+    text-decoration: none;
+}
+.final {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.final img {
+    width: 50%;
+    height: 90%;
+}
+.contatos-icones {
+    color: var(--verde);
+    font-size: 30px;
+}
+.fa-instagram {
+    columns: span(2);
+}

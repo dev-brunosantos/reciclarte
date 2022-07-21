@@ -1,0 +1,32 @@
+<h1>Bruno Santos</h1>
+
+                <p>
+                    Bruno Silva dos Santos, nasceu no dia 05 de Fevereiro de 1999 na cidade de Maxaranguape. 
+                    Filho do srº Francisco Canindé dos Santos (pescador e artesão), e da srª Maria José Nobre da Silva (dona de casa e artesã). 
+                    Bruno iniciou seus estudos bem cedo, aos 4 anos de idade, e isso fez com que ele se destacasse com seu potencial em diversas 
+                    áreas de conhecimento, uma delas é a música. 
+                </p>
+
+                <p>
+                    Aos 8 anos de idade Bruno começou a ter aulas de música na escola em que frequentava. Estava matriculado nas aulas de flauta,
+                    canto coral e teoria musical.
+                    Com essa idade teve o seu primeiro contato com a flauta doce, onde foi o ponta-pé inicial da sua carreira profissional como músico
+                    e educador musical.
+                </p>
+
+                <p>
+                    Seu primeiro professor de musica foi o Maestro Juarez Cravo, o mesmo viu o potencial do jovem prodígio e o fez trocar de instrumento,
+                    passando então a tocar uma flauta chamada Pifano/Pifaro/Pife.
+                    Em seguida, o jovem Bruno, aos 11 anos de idade, começou a tocar Flauta Transversal (sseu atual instrumento), passando a se dedicar cada
+                    vez mais nessa área.
+                </p>
+
+                <p>
+                    Bruno teve o contato com o professor Emerson Oliveira, o qual ensinou bastante teoria musical e o fez conhecer sobre harmonia, fazendo com que o 
+                    Bruno passasse a tocar outros instrumentos musicais.
+                    <br>
+                    Aos 13 anos de idade, Bruno já tocava vários instrumentos, tias como: flauta, clarinete, sax, violão, contra-baixo elétrico, guitarra, sanfona, teclado, 
+                    gaita, ukulêlê, piano, bateria entre outros instrumentos...
+                </p>
+
+            </div>

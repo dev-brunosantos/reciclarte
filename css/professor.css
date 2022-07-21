@@ -1,0 +1,35 @@
+.professor {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: var(--branco); */
+    background-image: linear-gradient(to bottom, var(--verde), var(--branco) 20%);
+}
+.professor__imagem {
+    width: 40%;
+    height: 20vh;
+    border-radius: 50%;
+    margin: 1em 0;
+    box-shadow: 0px 0px 20px var(--verde);
+}
+.professor .texto-informacao {
+    width: 90%;
+    height: 50vh;
+    overflow-y: auto;
+    color: var(--verde);
+    border: 1px double var(--verde);
+}
+.texto-informacao h1 {
+    font-size: 32px;
+}
+.texto-informacao p {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1em 0;
+    text-indent: 20px;
+    text-align: justify;
+    text-shadow: 0.5px 0px var(--preto);
+}
